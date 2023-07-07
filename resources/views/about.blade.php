@@ -10,5 +10,6 @@
     <h1>about page by the controller</h1>
     <!-- <a href="{{ url('/contact') }}">Contact</a> -->
     <a href="{{ route('contact.page') }}">Contact</a>
+//
 </body>
 </html>
