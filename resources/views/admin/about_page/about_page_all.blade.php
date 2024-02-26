@@ -79,7 +79,7 @@
 
 </div>
 </div>
-</div> <!-- end col -->
+</div> <!-- end col yes -->
 </div>
 
 
@@ -101,4 +101,4 @@ reader.readAsDataURL(e.target.files['0']);
 });
 </script>
 
-@endsection 
+@endsection
